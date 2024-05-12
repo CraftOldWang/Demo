@@ -7,5 +7,5 @@ int main()
 	printf("%ws", GetEasyXVer());
 
 	return 0;
-
+	a
 }
